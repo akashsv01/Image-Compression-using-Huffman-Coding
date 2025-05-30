@@ -1,1 +1,3 @@
 //After executing huffman.c, this file would contain the Huffman encoded information of the respective image.
+
+new lines from UI
